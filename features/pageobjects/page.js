@@ -10,7 +10,7 @@ export default class Page {
       "Basic Auth": "basic_auth",
       Checkboxes: "checkboxes",
       Dropdown: "dropdown",
-      inputs: "inputs",
+      Inputs: "inputs",
 
       "A/B Testing": "abtest",
       "Add/Remove Elements": "add_remove_elements/",
